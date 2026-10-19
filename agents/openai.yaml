@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI CLI 代理节点测试"
+  short_description: "按本机代理客户端构建真实推理探针，验证节点路径并整理可复用适配经验"
+  default_prompt: "使用 $ai-cli-proxy-test，为我的代理客户端构建并验证 AI CLI 节点测试工具。"
